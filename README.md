@@ -5,6 +5,11 @@ Interactive 2D visualization of text embeddings using OpenAI's embedding API and
 ## Install
 
 ```bash
+pip install embedding-visualizer
+```
+
+Or in dev mode:
+```bash
 cd embedding_visualizer
 uv sync
 ```
